@@ -28,7 +28,7 @@ if __name__ == "__main__":
     print(f"\nHere is your generated password: {random_()}")
     os.remove("password.txt") 
 
-    input("press Any key to quite. ")
+    input("press Enter key to quite. ")
 
     
     
